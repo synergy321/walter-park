@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: [Your Date]**
+**Last Updated: [25/02/2025]**
 
 ## Introduction  
 Welcome to **Walter Park**! This Privacy Policy explains how we handle your data when you use our app.
@@ -19,4 +19,4 @@ This Privacy Policy may be updated in the future. Any changes will be reflected 
 
 ## Contact Us  
 If you have any questions or concerns, feel free to contact us at:  
-📧 [Your Email]
+📧 [whothefuckis@thetravis.co]
